@@ -1,4 +1,3 @@
-```Português
 # Importar módulo da Biblioteca
 import math
 # Entrada dos dados
